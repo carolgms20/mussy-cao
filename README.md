@@ -1,4 +1,4 @@
-# mussyMUSSY - CÃOLÔNIA DE FÉRIAS
+# MUSSY - CÃOLÔNIA DE FÉRIAS
 
 Bem-vindo ao projeto do pet hotel  Mussy - Cãolônia de Férias! Desenvolvido utilizando VSCode e XAMPP nas linguagens HTML, CSS, JavaScript, SQL e PHP.
 
